@@ -4,11 +4,11 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on **Machine Learning Object Tracking Projects**
+- 🔭 I’m currently working on **ML Prediction Projects**
 
 - 🌱 I’m currently learning ** to apply Machine Learning models to different platforms **
 
-- 💬 Ask me about **Astro, MySQL, Tailwind, Machine Learning, php**
+- 💬 Ask me about **Astro, Tailwind, ML, PWA**
 
 - 📫 Feel free to reach me out **cascalderonleonardo@gmail.com**
 

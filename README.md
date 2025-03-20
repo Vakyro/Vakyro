@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **ML Prediction Projects**
 
-- 🌱 I’m currently learning **to apply ML models in different platforms**
+- 🌱 I’m currently learning **to apply AI models in different platforms**
 
-- 💬 Ask me about **Astro, Tailwind, PWA, AI ML**
+- 💬 Ask me about **Astro, Tailwind, PWA, AI & ML**
 
 - 📫 Feel free to reach me out **cascalderonleonardo@gmail.com**
 

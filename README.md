@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **to apply AI models in different platforms**
 
-- 💬 Ask me about **Astro, Tailwind, PWA, AI & ML**
+- 💬 Ask me about **Nextjs, Tailwind, PWA, AI & ML**
 
 - 📫 Feel free to reach me out **cascalderonleonardo@gmail.com**
 

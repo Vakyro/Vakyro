@@ -4,11 +4,11 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on **ML Prediction Projects**
+- 🔭 I’m currently working on **Applied AI for science** at **Jinich Lab (UCSD)**
 
-- 🌱 I’m currently learning **to apply AI models in different platforms**
+- 🌱 I’m currently learning to apply AI models in biochemistry research
 
-- 💬 Ask me about **Nextjs, Tailwind, PWA, AI & ML**
+- 💬 Ask me about **Nextjs, PWA, AI/ML, LMMs, PLMs & Bioengineering**
 
 - 📫 Feel free to reach me out **cascalderonleonardo@gmail.com**
 

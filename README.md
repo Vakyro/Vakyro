@@ -14,7 +14,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
   </ul>
 </div>
 
@@ -26,39 +26,49 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Project Tier List 🏆</h2></summary>
+    <summary><h2 style="display: inline-block">Project Tier List</h2></summary>
   </ul>
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="80" bgcolor="#ff7f7f"><h1>S</h1></td>
+    <td align="center" width="80">
+      <img width="100%" src="https://img.shields.io/badge/S-ffb3b3?style=for-the-badge&labelColor=ffb3b3&color=ffb3b3" />
+    </td>
     <td>
-      <code>SONAID</code> • <code>Water Project</code> • <code>HandsTalk</code>
+      <code>SONAID</code> • <code>HandsTalk</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="80" bgcolor="#ffbf7f"><h1>A</h1></td>
+    <td align="center" width="80">
+      <img width="100%" src="https://img.shields.io/badge/A-ff9f68?style=for-the-badge&labelColor=ff9f68&color=ff9f68" />
+    </td>
     <td>
-      <code>Simulador de Campo Eléctrico</code> • <code>Areté</code> • <code>techHub</code> • <code>on-drive</code>
+      <code>Areté</code> • <code>Water Project</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="80" bgcolor="#ffff7f"><h1>B</h1></td>
+    <td align="center" width="80">
+      <img width="100%" src="https://img.shields.io/badge/B-ffd166?style=for-the-badge&labelColor=ffd166&color=ffd166" /> 
+    </td>
     <td>
-      <code>Dressed</code> • <code>Eagle</code>
+      <code>Eagle</code> • <code>techHub</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="80" bgcolor="#bfff7f"><h1>C</h1></td>
+    <td align="center" width="80">
+      <img width="100%" src="https://img.shields.io/badge/C-f4e06d?style=for-the-badge&labelColor=f4e06d&color=f4e06d" />
+    </td>
     <td>
-      -
+      <code>on-drive</code> • <code>Dressed</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="80" bgcolor="#7fbfff"><h1>D</h1></td>
+    <td align="center" width="80">
+      <img width="100%" src="https://img.shields.io/badge/D-95d96f?style=for-the-badge&labelColor=95d96f&color=95d96f" />
+    </td>
     <td>
-      -
+      <code>Simulador de Campo Eléctrico</code>
     </td>
   </tr>
 </table>

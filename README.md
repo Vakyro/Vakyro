@@ -32,7 +32,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="80" bgcolor="#f38ba8"><h1>S</h1></td>
+<td align="center" width="80"><h1><span style="color:#f38ba8;">S</span></h1></td>
 <td>
 
 `SONAID` • `Water Project` • `HandsTalk`
@@ -41,7 +41,7 @@
 </tr>
 
 <tr>
-<td align="center" bgcolor="#fab387"><h1>A</h1></td>
+<td align="center"><h1><span style="color:#fab387;">A</span></h1></td>
 <td>
 
 `Simulador de Campo Eléctrico` • `Areté` • `techHub` • `on-drive`
@@ -50,7 +50,7 @@
 </tr>
 
 <tr>
-<td align="center" bgcolor="#f9e2af"><h1>B</h1></td>
+<td align="center"><h1><span style="color:#f9e2af;">B</span></h1></td>
 <td>
 
 `Dressed` • `Eagle`
@@ -59,7 +59,7 @@
 </tr>
 
 <tr>
-<td align="center" bgcolor="#a6e3a1"><h1>C</h1></td>
+<td align="center"><h1><span style="color:#a6e3a1;">C</span></h1></td>
 <td>
 
 -
@@ -68,7 +68,7 @@
 </tr>
 
 <tr>
-<td align="center" bgcolor="#89b4fa"><h1>D</h1></td>
+<td align="center"><h1><span style="color:#89b4fa;">D</span></h1></td>
 <td>
 
 -

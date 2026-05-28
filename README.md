@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning to apply AI models in biochemistry research
 
-- 💬 Ask me about **PWA, AI/ML, LMMs, AI AGENTS, PLMs & Bioengineering**
+- 💬 Ask me about **PWA, AI/ML, LMMs, AI AGENTS, PLMs & Biotech**
 
 - 📫 Feel free to reach me out **cascalderonleonardo@gmail.com**
 
